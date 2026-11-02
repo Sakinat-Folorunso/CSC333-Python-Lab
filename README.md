@@ -25,19 +25,6 @@ Thirteen weekly Google Colab lab sessions (Week 0 to Week 12) that take students
 
 Every notebook contains: learning outcomes, concept explanations in Markdown, worked demos with **every line of code commented**, Predict-Run-Explain class activities, graded tasks with automatic self-checks, a quiz, an assignment and a reflection/submission checklist. All datasets are synthetic and generated in-notebook with `seed=42`; no downloads are needed.
 
-## Publishing on GitHub (5 minutes)
-1. Create a **public** repository named `CSC333-Python-Lab` on GitHub and upload this folder (or `git init`, `git add .`, `git commit`, `git push`).
-2. Rebuild the notebooks so the "Open in Colab" badges point to your account (only needed once):
-   ```bash
-   pip install -r requirements.txt
-   GITHUB_USER=your-github-username python build/build_all.py
-   ```
-3. Commit and push. Students open a notebook on GitHub and click the **Open in Colab** badge, or use `https://colab.research.google.com/github/<user>/CSC333-Python-Lab/blob/main/notebooks/<week_folder>/<file>.ipynb`.
-4. Tip: keep Solution notebooks in a separate private branch or release them after each session.
-
-## Quality assurance
-`python tools/validate_notebooks.py` executes every notebook headlessly. Solutions must pass every check; Starters must run without crashing before students edit them. Current status: **26/26 notebooks pass.**
-
 ## Repository layout
 ```
 notebooks/weekNN_topic/CSC333_WeekNN_Starter.ipynb
