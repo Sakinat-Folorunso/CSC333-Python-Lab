@@ -1,0 +1,13 @@
+student_id,programme,score,attendance
+1,CS,70,90.0
+2,cs ,55,85.0
+3, DS,N/A,70.0
+4,Data Science,88,
+5,ICT,61,95.0
+5,ICT,61,95.0
+6,SE,150,60.0
+7,CS,47,88.0
+8,DS,,92.0
+9,ICT,72,
+10,SE,-5,80.0
+11,CS,90,99.0

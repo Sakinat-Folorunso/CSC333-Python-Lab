@@ -1,0 +1,61 @@
+student_id,programme,course,score,attendance
+S001,Computer Science,DTS 201,60,97
+S002,Software Engineering,DTS 201,76,57
+S003,Software Engineering,CSC 333,75,75
+S004,Cyber Security,DTS 201,62,85
+S005,Cyber Security,CSC 333,89,75
+S006,ICT,CSC 331,69,72
+S007,Computer Science,DTS 201,35,58
+S008,Software Engineering,CSC 333,83,69
+S009,Data Science,CSC 331,70,62
+S010,Computer Science,CSC 333,74,65
+S011,Cyber Security,DTS 201,69,84
+S012,ICT,CSC 331,68,82
+S013,Software Engineering,CSC 333,36,80
+S014,Software Engineering,CSC 331,69,68
+S015,Software Engineering,DTS 201,85,98
+S016,Software Engineering,CSC 333,51,54
+S017,Cyber Security,CSC 331,72,67
+S018,Computer Science,CSC 331,32,56
+S019,ICT,CSC 333,54,67
+S020,Cyber Security,DTS 201,60,99
+S021,Cyber Security,DTS 201,98,68
+S022,Data Science,CSC 333,45,96
+S023,Computer Science,CSC 331,49,75
+S024,ICT,DTS 201,58,85
+S025,Software Engineering,CSC 333,99,73
+S026,Software Engineering,DTS 201,89,63
+S027,Cyber Security,CSC 331,32,88
+S028,ICT,CSC 331,46,99
+S029,Cyber Security,DTS 201,87,63
+S030,Cyber Security,DTS 201,34,89
+S031,Cyber Security,CSC 333,89,63
+S032,Data Science,DTS 201,49,86
+S033,Computer Science,DTS 201,94,90
+S034,Cyber Security,CSC 333,50,72
+S035,ICT,DTS 201,60,87
+S036,Computer Science,CSC 331,76,63
+S037,ICT,CSC 331,38,54
+S038,ICT,DTS 201,68,54
+S039,Data Science,CSC 333,65,72
+S040,Software Engineering,CSC 331,84,96
+S041,Computer Science,DTS 201,99,56
+S042,Software Engineering,CSC 331,76,73
+S043,Software Engineering,DTS 201,58,85
+S044,Data Science,CSC 331,58,60
+S045,Computer Science,DTS 201,59,86
+S046,ICT,DTS 201,86,65
+S047,Cyber Security,DTS 201,52,91
+S048,ICT,CSC 333,41,79
+S049,Software Engineering,CSC 333,53,77
+S050,Software Engineering,DTS 201,31,59
+S051,Software Engineering,CSC 331,37,73
+S052,Computer Science,DTS 201,36,93
+S053,Data Science,CSC 333,84,50
+S054,Cyber Security,CSC 333,80,88
+S055,Cyber Security,CSC 333,78,75
+S056,Computer Science,CSC 333,62,86
+S057,Cyber Security,CSC 331,80,83
+S058,Computer Science,CSC 331,41,72
+S059,Software Engineering,CSC 331,93,65
+S060,Software Engineering,CSC 331,65,81
