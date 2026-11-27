@@ -4,6 +4,20 @@
 **Department of Computer Science, Olabisi Onabanjo University, Ago-Iwoye, Nigeria**
 sakinat.folorunso@oouagoiwoye.edu.ng
 
+
+
+## CSC 331 — Computer Programming III (Theory)
+
+**Class Teaching Note**
+
+Access the complete CSC 331 lecture note through Google Docs:
+
+[Open CSC 331 Computer Programming III Class Note](https://docs.google.com/document/d/1FxlLDqmXH-3arlkUar7rC3GcnA3oVDr_/edit)
+
+Students should use this document as the primary reference for the theoretical component of the course.
+
+
+
 Thirteen weekly Google Colab lab sessions (Week 0 to Week 12) that take students from installing Python to a tested, documented mini-application. Each week has a **Starter** notebook (students work here) and a **Solution** notebook (released after the session).
 
 ## Weekly map (simple to hard)
